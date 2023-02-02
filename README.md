@@ -6,7 +6,7 @@ I'm passionate about understanding and working with data and always excited to l
 
 ### What I'm focusing on
 
-Currently improving my ML, AI and SQL skills.
+Currently improving my ML, AI and SQL skills, as well as learning AWS.
 
 ### Find me
 [![Connect with me on LinkedIn](https://img.shields.io/badge/-Connect%20with%20me%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charles-cheng-4b2020186/)](https://www.linkedin.com/in/igorcruz91/)
