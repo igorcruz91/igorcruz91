@@ -6,7 +6,7 @@ I'm passionate about understanding and working with data and always excited to l
 
 ### What I'm focusing on
 
-Currently improving my ML, AI and SQL skills, as well as learning AWS.
+Currently improving my ML, AI and SQL skills, as well as learning AWS and Azure.
 
 ### Portfolio
 You can find my projects portfolio [here](https://github.com/igorcruz91/igor_portfolio).
