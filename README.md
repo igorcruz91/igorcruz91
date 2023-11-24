@@ -1,8 +1,10 @@
 ### Hi there, I'm Igor !
 
-I am currently finishing my master's degree in Quantum Computing at University of São Paulo at the topic of Quantum Walks. 
+I am a Bachelor in Physics and a Master in Quantum Computing, both from the University of São Paulo - USP.
 
-I'm passionate about understanding and working with data and always excited to learn more and apply my skills to projects. I am looking for opportunities to work with Machine learning and AI, with innovative teams that aims to develop great ideas and solutions to real-world projects and problems.
+Passionate about analyzing and working with data, I am always motivated to learn, share knowledge, and, above all, apply my skills to projects and solutions. I enjoy working with Machine Learning, AI, and Quantum Computing applications, alongside innovative teams that aim to develop great ideas and solutions for real-world projects and problems.
+
+Currently, I work as a Data Scientist at Proffer, on projects involving Machine Learning, AI, LLMs, and AWS.
 
 ### What I'm focusing on
 
