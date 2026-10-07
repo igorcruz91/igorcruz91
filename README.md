@@ -4,11 +4,11 @@ I am a Bachelor in Physics and a Master in Quantum Computing, both from the Univ
 
 Passionate about analyzing and working with data, I am always motivated to learn, share knowledge, and, above all, apply my skills to projects and solutions. I enjoy working with Machine Learning, AI, and Quantum Computing applications, alongside innovative teams that aim to develop great ideas and solutions for real-world projects and problems.
 
-Currently, I work as a Data Scientist at Proffer, on projects involving Machine Learning, AI, LLMs, and AWS.
+Currently, I work as a Data Scientist at PagBank, on projects involving Machine Learning, AI, LLMs, and agents.
 
 ### What I'm focusing on
 
-Currently improving my ML, AI and SQL skills, as well as learning AWS and Azure.
+Currently Im focusing on agentic solutions, LLM systems.
 
 ### Portfolio
 You can find my projects portfolio [here](https://github.com/igorcruz91/igor_portfolio).
